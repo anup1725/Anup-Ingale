@@ -1,0 +1,97 @@
+              .main{
+                height: 1500px;
+                border: 5px solid black;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-evenly;
+                background-color: rgb(23, 10, 10);
+              }
+            .contener1{
+                height: 300px;
+                border: 1px solid black ;
+                display: flex;
+                justify-content: space-evenly;
+                align-items: center;
+                background-image: url("./images/bbb.jpg");
+                background-size: cover;
+                background-repeat: no-repeat;
+                background-position:to right 20% 50% ;
+                
+            }
+            .contener2{
+                color: bisque;
+                               
+            }
+            .contener3{          
+                display: flex;
+                justify-content: space-evenly;
+               }
+            .contener4{
+                color: bisque;
+               
+            }
+             .contener5{
+                height: 200px;
+               
+                display: flex;
+                flex-direction: column;
+               justify-content: space-around;
+               align-items: center;
+               color: bisque;
+            }
+            .contener6{
+                display:flex ;
+                justify-content: center;
+            }
+            .box{
+                height: 200px;
+                width: 400px;
+                
+                color: rgb(253, 253, 253);
+            }
+            .box0{
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                justify-content: center;
+                align-items: center;
+                height: 200;
+                width: 400px;
+                color: rgb(79, 78, 75);
+               
+            }
+            .box1{
+                height: 170px;
+                width: 170px;
+                border: 3px solid black ;
+               
+            }
+            .box1 img{
+                height: 170px;
+                width: 170px;
+                object-fit: cover;
+            }
+
+            .box2{
+             width: 500px;
+             height: 50px;
+             border: 3px solid black ;
+            display: flex;
+            padding: 2px;
+            align-items: center;
+            background-color: rgb(50, 49, 49);
+            }
+            .contener7{
+                color: bisque;
+            }
+            .contener8{
+                color: bisque;
+                 display: flex;
+                justify-content: space-evenly;
+            }
+            .box3{
+                background-color: rgb(47, 46, 46);
+                width: 160px;
+                border: 3px solid black ;
+                padding: 2px;
+               }
